@@ -1,0 +1,90 @@
+<style>
+   <div class ="intro">
+      .forward{
+         font-family:Ariel;
+         width :400px;
+         background: green#46ff15;
+         color: White#ffffea;
+         display : block ;
+      }
+      
+      .span-pro{
+         text-decoration:underline;
+         hover:pointer;
+         font: strong ;
+         background: grey#abb294;
+         color: pink#ff40e7;
+                 }
+                 
+      .span-soc{
+        text-decoration:underline;
+         hover:pointer;
+         font: strong ;
+         background: blue#512bff;
+         color: black#050310;
+         
+      }
+      
+      .span-eco{
+         text-decoration:underline;
+         hover:pointer;
+         font: strong ;
+         background: orange#ff7e15;
+         color: green#5bff15;
+      }
+                 
+   </div> 
+   <div class="logo">
+      .WDA-LOGO{
+         height: 100px;
+         width: 100px;
+         border-radius: 50px;
+         border:solid;
+         border-color: red#ff352b;
+         object-position:left;
+         display : inline block ;
+         margin-right:15px;
+         vertical-align:top;
+         }
+     .logo-support{
+          width: 300px;
+          font-style: italic;
+          background: yellow#ffb200;
+          color: black#080015;
+       }  
+       
+   </div>
+   <div class="main">
+      . business {
+          width: 300px;
+          font: strong;
+          display:block;
+          
+      }
+      
+      .BDA-icon{
+          height: 50px;
+          width: 50px;
+          border:solid;
+          border-radius:25px;
+          vertical-align: top ;
+          margin-right:15px;
+          margin-top:10px;
+          display : inline block ;
+         
+      }
+      
+      .BDA-support{
+         width: 250px;
+         font-style:italic;
+         vertical-align:top;
+         margin-top:10px;
+         display : inline block ;#ff40fc
+         
+      }
+      
+   </div>
+   
+   
+   
+</style>
